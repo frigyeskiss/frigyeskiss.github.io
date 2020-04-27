@@ -25,10 +25,16 @@ a:hover {
     text-decoration: underline;
     color: #4f69c2;
 }
+.top-pic {
+    border-width: 4px;
+    border-radius: 4px;
+    border-color: #444444;
+    border-style: solid;
+}
 .content {
     position: absolute; 
 	top: 50%; transform: 
-    translateY(-60%);
+    translateY(-70%);
 }
 .html:hover {
     color: #FE6200;
@@ -45,4 +51,8 @@ a:hover {
 .games:hover {
     font-weight: 500;
     cursor: pointer;
+}
+.red {
+    color: #d35353;
+    cursor: not-allowed;
 }
