@@ -19,7 +19,7 @@ p {
 }
 a {
     text-decoration: none;
-    color: #444;
+    color: #8693c2;
 }
 a:hover {
     text-decoration: underline;
@@ -29,4 +29,20 @@ a:hover {
     position: absolute; 
 	top: 50%; transform: 
     translateY(-60%);
+}
+.html:hover {
+    color: #FE6200;
+    cursor: pointer;
+}
+.css:hover {
+    color: #264de4;
+    cursor: pointer;
+}
+.js:hover {
+    color: #f7e018;
+    cursor: pointer;
+}
+.games:hover {
+    font-weight: 500;
+    cursor: pointer;
 }
