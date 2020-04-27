@@ -29,6 +29,15 @@ a:hover {
     text-decoration: underline;
     color: #4f69c2;
 }
+.secretlink {
+    text-decoration: none;
+    color: #444444;
+}
+.secretlink:hover {
+    text-decoration: none;
+    color: #444444;
+    cursor: default;
+}
 .top-pic {
     border-width: 4px;
     border-radius: 4px;
