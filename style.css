@@ -8,6 +8,10 @@ body {
     padding: 0 10px;
     position: relative;
     cursor: default;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
 }
 h1,h2,h3 {
     line-height:1.2;
@@ -35,6 +39,13 @@ a:hover {
     position: absolute; 
 	top: 50%; transform: 
     translateY(-70%);
+}
+@-moz-document url-prefix() {
+    .content {
+        position: absolute; 
+        top: 50%; transform: 
+        translateY(130%);
+    }
 }
 .html:hover {
     color: #FE6200;
