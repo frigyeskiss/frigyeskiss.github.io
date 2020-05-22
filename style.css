@@ -5,7 +5,7 @@ body {
     line-height: 1.6em  ;
     font-family: 'Roboto Mono', monospace;
     font-size: 13px;
-    color: #444;
+    color: #333;
     background-color: #fefefe;
     padding: 1em;
     position: relative;
@@ -35,6 +35,17 @@ blockquote {
     margin: 0;
     padding-left: 3em;
     border-left: 0.5em #eeeeee solid;
+}
+pre {
+    display: block;
+    padding: 14px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color: #eeeeee;
+    border-left: 3px solid #50d45b;
+    border-radius: 6px;
 }
 .secretlink {
     text-decoration: none;
