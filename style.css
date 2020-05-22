@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap');
+@media only screen and (min-width:992px) and (max-width:1199px) {body{font-size:14pt;}}
+@media only screen and (min-width:768px) and (max-width:991px) {body{font-size:14pt;}}
+@media only screen and (min-width:480px) and (max-width:767px) {body{font-size:11pt;}}
+@media only screen and (max-width:479px) {body{font-size:8pt;}}
+@media only screen and (min-device-width :375px) and (max-device-width :667px) {body{font-size:9.5pt;}}
+@media only screen and (min-device-width:1200px) {body{font-size:10pt;}}
 body {
     margin: 2em auto;
     max-width: 72em;
