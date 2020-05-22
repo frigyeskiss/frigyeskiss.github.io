@@ -82,3 +82,13 @@ pre {
     color: #d35353;
     cursor: not-allowed;
 }
+.alert {position:relative;padding:.75rem 1.25rem;margin-bottom:1rem;border:1px solid transparent;border-radius:.25rem;}
+.alert-info {color:#0c5460;background-color:#d1ecf1;border-color:#bee5eb;}
+.alert-info hr {border-top-color:#abdde5;}
+.alert-info .alert-link {color:#062c33;}
+.alert-warning {color:#59402D;background-color:#fff3cd;border-color:#c9ba9b;}
+.alert-warning hr {border-top-color:#ffe8a1;}
+.alert-warning .alert-link {color:#533f03;}
+.alert-danger {color:#721c24;background-color:#f8d7da;border-color:#f5c6cb;}
+.alert-danger hr {border-top-color:#f1b0b7;}
+.alert-danger .alert-link {color:#491217;}
