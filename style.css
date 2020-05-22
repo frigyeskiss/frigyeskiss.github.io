@@ -30,6 +30,12 @@ a:hover {
 .header {
     margin-bottom: 2em;
 }
+blockquote {
+    color: #666666;
+    margin: 0;
+    padding-left: 3em;
+    border-left: 0.5em #eeeeee solid;
+}
 .secretlink {
     text-decoration: none;
     color: #444444;
