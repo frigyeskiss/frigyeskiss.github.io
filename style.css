@@ -53,6 +53,13 @@ pre {
     border-left: 3px solid #50d45b;
     border-radius: 6px;
 }
+hr {
+    margin: 2.5em;
+    border: none;
+    height: 2px;
+    color: #999999;
+    background-color: #999999;
+}
 .secretlink {
     text-decoration: none;
     color: #444444;
