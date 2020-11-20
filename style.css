@@ -63,6 +63,9 @@ hr {
     color: #999999;
     background-color: #999999;
 }
+.quote {
+    margin-top: 3em;
+}
 .secretlink {
     text-decoration: none;
     color: #444444;
