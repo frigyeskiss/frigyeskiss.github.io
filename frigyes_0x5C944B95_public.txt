@@ -1,12 +1,4 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	frigyes
-Comment: Created:	5/14/2021 6:14 PM
-Comment: Expires:	5/14/2023 12:00 PM
-Comment: Type:	3,072-bit RSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs
-Comment: Fingerprint:	A9F4AE0748968D6BAC566860A3A430E05C944B95
-
-
 mQGNBGCeoeIBDADao32Xm3Be4nE3X6TE7QMgOXHYN5qVAsndnDegNO+CFl68Jpxe
 5AkqBVcHga3g+9H2npB6xwUNpLO4SswWNkd+2UXQ8Yw1Hj/BItSNfQOpiCz5Zs2w
 mP4EPxBQdqm3Q6qBwG/X5YK+BHk8cler0EHvJXMVIhyjBZXIGWnwqIUojFNcDgiC
