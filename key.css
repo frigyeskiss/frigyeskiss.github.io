@@ -25,6 +25,12 @@ p {
     font-family: 'Roboto Mono', monospace;
     font-weight: 400;
 }
+.preload * {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -ms-transition: none !important;
+    -o-transition: none !important;
+   }
 a {
     text-decoration: none;
     color: #5865F2;
